@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Shrinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=gupta-shrinath&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Flask Session Captcha](https://github-readme-stats.vercel.app/api/pin/?username=gupta-shrinath&repo=flask-session-captcha&show_owner=true)](https://github.com/Tethik/flask-session-captcha)
+[![Flask Session Captcha](https://github-readme-stats.vercel.app/api/pin/?username=gupta-shrinath&repo=flask-session-captcha)](https://github.com/Tethik/flask-session-captcha)
