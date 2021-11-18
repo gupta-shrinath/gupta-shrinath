@@ -1,16 +1,16 @@
 ### Hi there 👋
 <p align="left">
     <a href="https://twitter.com/gupta_shrinath">
-        <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
+        <img src="https://img.icons8.com/color/30/000000/twitter--v1.png"/>
     </a>
     <a href="mailto:guptashrinath9@gmail.com">
-        <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
+        <img src="https://img.icons8.com/color/30/000000/gmail-new.png"/>
     </a>
     <a href="https://auth.geeksforgeeks.org/user/gupta_shrinath/articles">
-        <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/>
+        <img src="https://img.icons8.com/color/30/000000/GeeksforGeeks.png"/>
     </a>
     <a href="https://medium.com/@guptashrinath9">
-        <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/000000/medium-monogram--v1.png"/>
     </a>
 </p>
 
