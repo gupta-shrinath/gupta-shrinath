@@ -14,6 +14,7 @@
     </a>
 </p>
 
+- 🧑‍💼 Looking for job opportunities.
 - 🔭 I’m currently working on [Dev](https://github.com/gupta-shrinath/Dev).
 - 🌱 I’m currently learning flutter, dart and clean code.
 - 🤔 I’m looking for help with [Notes](https://github.com/gupta-shrinath/Notes).
@@ -30,3 +31,5 @@
 
 [![Demo Auth Client](https://github-readme-stats.vercel.app/api/pin/?username=gupta-shrinath&repo=demo-oauth-client)](https://github.com/authlib/demo-oauth-client/pull/9)
 [![Botify](https://github-readme-stats.vercel.app/api/pin/?username=gupta-shrinath&repo=botify)](https://github.com/robinfriedli/aiode/pull/226)
+
+Thanks 🙌 to [Anurag](https://github.com/anuraghazra/github-readme-stats) and [Icon8](https://icons8.com/).
