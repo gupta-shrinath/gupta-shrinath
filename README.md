@@ -19,7 +19,6 @@
 - 🌱 I’m currently learning flutter, dart and clean code.
 - 🤔 I’m looking for help with [Notes](https://github.com/gupta-shrinath/Notes).
 - 😄 Pronouns: he/him
-- ⚡ Fun fact:  Subconsciously tend to write complex solution to simple problem 😅. 
 
 [![Shrinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=gupta-shrinath&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
