@@ -14,11 +14,6 @@
     </a>
 </p>
 
-- 🧑‍💼 Looking for job opportunities.
-- 🔭 I’m currently working on [Dev](https://github.com/gupta-shrinath/Dev).
-- 🌱 I’m currently learning flutter, dart and clean code.
-- 🤔 I’m looking for help with [Notes](https://github.com/gupta-shrinath/Notes).
-- 😄 Pronouns: he/him
 
 [![Shrinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=gupta-shrinath&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
